@@ -26,3 +26,5 @@ Source:
 https://learn.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd
 
 /TPoppelgaard
+
+If you would like to install Teams VDI 2.0 I have created a script that was inspired by Marcel Meurer, who created it to Hydra, i have changed the variables so it can be used in any EUC environment 
