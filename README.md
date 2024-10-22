@@ -16,10 +16,10 @@ shell:appsFolder\MSTeams_8wekyb3d8bbwe!MSTeams
 **Application Identifier:**
 shell:appsFolder
 
-Name:
+**Name:**
 Microsoft Teams
 
-Icon path:
+**Icon path:**
 "C:\ProgramData\Microsoft\Windows\ms-teams_new.ico"
 
 Source:
