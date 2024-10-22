@@ -10,10 +10,10 @@ New Teams is installed as an MSIX package, which is a format used for applicatio
 
 You can publish new Teams in Azure Virtual Desktop RemoteApp
 
-Application Path:
+**Application Path:**
 shell:appsFolder\MSTeams_8wekyb3d8bbwe!MSTeams
 
-Application Identifier:
+**Application Identifier:**
 shell:appsFolder
 
 Name:
